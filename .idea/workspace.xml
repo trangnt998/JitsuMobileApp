@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd2b8458-59f2-41ae-a67a-7c71ad741e42" name="Changes" comment="" />
+    <list default="true" id="dd2b8458-59f2-41ae-a67a-7c71ad741e42" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LaunchApp.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Demo.print.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestJitsu.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.D:/AutoTestPractice/Jitsu/JitsuMobileApp/src/test/resources/testsuites/TestNGHooksLearning.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.StartTutorialTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestJitsu.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/AutoTestPractice/Jitsu/JitsuMobileApp - Copy&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LaunchApp.executor": "Run",
+    "JUnit.Demo.executor": "Run",
+    "JUnit.Demo.print.executor": "Run",
+    "JUnit.TestJitsu.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.D:/AutoTestPractice/Jitsu/JitsuMobileApp/src/test/resources/testsuites/TestNGHooksLearning.xml.executor": "Run",
+    "TestNG.StartTutorialTest.executor": "Run",
+    "TestNG.TestJitsu.executor": "Run",
+    "git-widget-placeholder": "start-tutorial",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/AutoTestPractice/Jitsu/JitsuMobileApp - Copy",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\AutoTestPractice\Jitsu\JitsuMobileApp\src\test\resources\app" />
