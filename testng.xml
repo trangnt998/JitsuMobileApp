@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="JitsuTutorial">
+    <test name="JitsuTutorialTests">
+        <classes>
+            <class name="jitsu.tests.StartTutorialTest"/>
+        </classes>
+    </test>
+</suite>
